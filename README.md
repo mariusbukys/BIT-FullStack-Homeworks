@@ -1,5 +1,3 @@
-# BIT-FullStack-Homeworks
-This repository is for homeworks and challenges from Baltic Institute of Technology Full-stack course
 
 This repository represents my 5 month journey with Baltic Institute of Technologies in Full Stack programming.
 
